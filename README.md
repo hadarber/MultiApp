@@ -15,12 +15,18 @@ The common library contains general logic and common XML layouts shared by both 
 The piano module focuses on teaching piano chords. Each chord is presented with an image and unique instructions tailored to piano learners.
 <br>
 <img src="https://github.com/user-attachments/assets/b0533adc-f218-46c8-9bcc-47c244069e8e" width="400">
+<br>
+<img src="https://github.com/user-attachments/assets/c82d98e0-d109-4db2-93f1-4bab486311bd" width="400">
+
 
 #### 2.2 Guitar Module
 
 The guitar module is designed for learning guitar chords. Similar to the piano module, it includes chord diagrams, images, and specific guidance for guitar players.
 <br>
 <img src="https://github.com/user-attachments/assets/be4ab8d9-6e66-4d58-b5fe-fd5d0eaf0a89" width="400">
+<br>
+<img src="https://github.com/user-attachments/assets/ecfad1e9-5141-4721-8bcd-8696ea879866" width="400">
+
 
 ## Features
 
