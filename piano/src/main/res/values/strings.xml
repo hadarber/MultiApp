@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Learn Piano</string>
+    <string name="main_title">Lets learn to play</string>
+    <string name="sub_title">Piano</string>
+    <string name="chord_image_desc">Chord Image</string>
+    <string name="prev_chord">Previous Chord</string>
+    <string name="next_chord">Next Chord</string>
+    <string name="home">Home</string>
+
+    <string-array name="chord_titles">
+        <item>A Major Chord</item>
+        <item>A # Major Chord</item>
+        <item>B Major Chord</item>
+        <item>B # Major Chord</item>
+        <item>C Major Chord</item>
+        <item>C # Major Chord</item>
+        <item>D Major Chord</item>
+        <item>D # Major Chord</item>
+        <item>E Major Chord</item>
+        <item>E # Major Chord</item>
+    </string-array>
+
+    <string-array name="chord_descriptions">
+        <item>Place your thumb on the A key (white key).\n\n
+Place your middle finger on the C# key (black key two keys to the right of A).\n\n
+Place your pinky on the E key (white key next to C#).</item>
+        <item>Place your right thumb on A# (A sharp), which is the black key to the right of A.\n\n
+Place your middle finger on C# (C sharp), which is the black key to the right of C.\n\n
+Place your pinky finger on F (F natural), which is the white key to the right of E.</item>
+        <item>Place your right thumb on B, which is the white key two keys to the left of middle C.\n\n
+Place your middle finger on D#, which is the black key to the right of D.\n\n
+Place your pinky finger on F#, which is the white key to the right of F.</item>
+        <item>Place your right thumb on B#, which is the white key three keys to the left of middle C.\n\n
+Place your middle finger on D## (double sharp), which is the black key to the right of D#.\n\n
+Place your pinky finger on F## (double sharp), which is the white key to the right of F#.</item>
+        <item>Place your thumb on C, which is the white key to the left of the group of two black keys (C# and D#).\n\n
+Place your index finger on E, which is the white key to the right of D.\n\n
+Place your ring finger on G, which is the white key to the right of F.</item>
+        <item>Place your thumb on C#, which is the black key to the right of C.\n\n
+Place your index finger on F, which is the white key to the right of E.\n\n
+Place your ring finger on G#, which is the black key to the right of G.</item>
+        <item>Place your thumb on D, which is the white key to the left of the group of two black keys (D# and E#).\n\n
+Place your index finger on F#, which is the white key to the right of E.\n\n
+Place your ring finger on A, which is the white key to the right of G.</item>
+        <item>Place your thumb on D#, which is the black key to the right of D.\n\n
+Place your index finger on G, which is the white key to the right of F.\n\n
+Place your ring finger on A#, which is the black key to the right of A.</item>
+        <item>Place your thumb on E, which is the white key to the left of the group of two black keys (E# and F##).\n\n
+Place your index finger on G#, which is the black key to the right of G.\n\n
+Place your ring finger on B, which is the white key to the right of A#.</item>
+        <item>Place your thumb on F, which is the white key to the left of the group of two black keys (F# and G#).\n\n
+Place your index finger on A, which is the white key to the right of G.\n\n
+Place your ring finger on C, which is the white key to the right of B.</item>
+    </string-array>
+
+</resources>

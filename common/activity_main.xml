@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="#ECEFF1"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/main_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/main_title"
+        android:textSize="24sp"
+        android:textColor="#3F51B5"
+        android:layout_gravity="center"
+        android:paddingBottom="8dp"/>
+
+    <TextView
+        android:id="@+id/sub_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sub_title"
+        android:textSize="18sp"
+        android:textColor="#FF5722"
+        android:layout_gravity="center"
+        android:paddingBottom="16dp"/>
+
+    <ImageView
+        android:id="@+id/musical_instruments"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:src="@drawable/musical_instrument"
+        android:layout_gravity="center"
+        android:paddingBottom="16dp"/>
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:columnCount="2"
+        android:rowCount="5"
+        android:layout_gravity="center">
+
+        <Button
+            android:id="@+id/button_a"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_rowWeight="1"
+            android:text="chord_a"
+            android:layout_margin="8dp"
+            android:backgroundTint="#8BC34A"
+            android:textColor="#FFFFFF"/>
+
+        <Button
+            android:id="@+id/button_b"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_rowWeight="1"
+            android:text="b"
+            android:layout_margin="8dp"
+            android:backgroundTint="#8BC34A"
+            android:textColor="#FFFFFF"/>
+
+        <Button
+            android:id="@+id/button_c"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_rowWeight="1"
+            android:text="chord_c"
+            android:layout_margin="8dp"
+            android:backgroundTint="#8BC34A"
+            android:textColor="#FFFFFF"/>
+
+        <Button
+            android:id="@+id/button_d"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_rowWeight="1"
+            android:text="chord_d"
+            android:layout_margin="8dp"
+            android:backgroundTint="#8BC34A"
+            android:textColor="#FFFFFF"/>
+
+        <Button
+            android:id="@+id/button_e"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_rowWeight="1"
+            android:text="chord_e"
+            android:layout_margin="8dp"
+            android:backgroundTint="#8BC34A"
+            android:textColor="#FFFFFF"/>
+
+        <Button
+            android:id="@+id/button_f"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_rowWeight="1"
+            android:text="chord_f"
+            android:layout_margin="8dp"
+            android:backgroundTint="#8BC34A"
+            android:textColor="#FFFFFF"/>
+
+        <Button
+            android:id="@+id/button_g"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_rowWeight="1"
+            android:text="chord_g"
+            android:layout_margin="8dp"
+            android:backgroundTint="#8BC34A"
+            android:textColor="#FFFFFF"/>
+
+        <Button
+            android:id="@+id/button_h"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_rowWeight="1"
+            android:text="chord_h"
+            android:layout_margin="8dp"
+            android:backgroundTint="#8BC34A"
+            android:textColor="#FFFFFF"/>
+
+        <Button
+            android:id="@+id/button_i"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_rowWeight="1"
+            android:text="chord_i"
+            android:layout_margin="8dp"
+            android:backgroundTint="#8BC34A"
+            android:textColor="#FFFFFF"/>
+
+        <Button
+            android:id="@+id/button_j"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_rowWeight="1"
+            android:text="chord_j"
+            android:layout_margin="8dp"
+            android:backgroundTint="#8BC34A"
+            android:textColor="#FFFFFF"/>
+    </GridLayout>
+</LinearLayout>

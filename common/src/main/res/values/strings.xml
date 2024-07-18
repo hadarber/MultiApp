@@ -1,0 +1,33 @@
+<resources>
+    <string name="main_title">Lets learn to play</string>
+
+    <string-array name="chord_titles">
+        <item>A Major Chord</item>
+        <item>Chord B</item>
+        <item>Chord C</item>
+        <item>Chord D</item>
+        <item>Chord E</item>
+        <item>Chord F</item>
+        <item>Chord G</item>
+        <item>Chord H</item>
+        <item>Chord I</item>
+        <item>Chord J</item>
+    </string-array>
+
+    <string-array name="chord_descriptions">
+        <item>Description for Chord A</item>
+        <item>Description for Chord B</item>
+        <item>Description for Chord C</item>
+        <item>Description for Chord D</item>
+        <item>Description for Chord E</item>
+        <item>Description for Chord F</item>
+        <item>Description for Chord G</item>
+        <item>Description for Chord H</item>
+        <item>Description for Chord I</item>
+        <item>Description for Chord J</item>
+    </string-array>
+
+
+
+
+</resources>
